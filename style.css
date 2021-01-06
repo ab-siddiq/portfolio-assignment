@@ -122,13 +122,14 @@ h2 {
 }
 
 .experience {
-    background-image:linear-gradient(180deg,#F69C74, #FB6454);
+    background-image:linear-gradient(45deg,#6361DA, #FB6B58);
     height: 200px;
     margin: 100px 0px;
     text-transform: uppercase;
     font-size: 30px;
     font-weight: bolder;
     text-align: center;
+    border-radius: 10px;
 }
 
 .col-3 {
